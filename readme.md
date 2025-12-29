@@ -1,7 +1,6 @@
 # Octet: A Complete 6502 Emulator
 
-<script src="https://asciinema.org/a/5L8u2cUlyWB0M5uXnPclrciLy.js" id="asciicast-5L8u2cUlyWB0M5uXnPclrciLy" async="true"></script>
-<!-- [![asciicast](https://asciinema.org/a/5L8u2cUlyWB0M5uXnPclrciLy.svg)](https://asciinema.org/a/5L8u2cUlyWB0M5uXnPclrciLy) -->
+![asciicast](https://asciinema.org/a/5L8u2cUlyWB0M5uXnPclrciLy.svg)](https://asciinema.org/a/5L8u2cUlyWB0M5uXnPclrciLy)
 
 The MOS 6502, introduced in 1975, was unbiquitous in home computers and video game systems for the next fifteen years, powering systems from the Apple I to the Super NES, Atari, and Commodore 64. This project is a simple, functional emulator of the NMOS 6502.
 
